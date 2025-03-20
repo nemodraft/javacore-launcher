@@ -1,0 +1,1 @@
+This is a simple launcher on Java without using cycles and additional technologies, I created it based on my knowledge at that moment. I might delete it in the future, but for now I'll leave it as a possible monument for myself.
